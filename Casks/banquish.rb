@@ -1,7 +1,7 @@
 cask "banquish" do
   # `npm run release` in the Banquish repo sets version and sha256 on each release.
-  version "0.3.1"
-  sha256 "4b22480e85875c48a407b0e8ccb6bc9907d3f6c06d6e868ca76337eaaca77461"
+  version "0.4.0"
+  sha256 "e373b8d5a05d886607ab607f65d55b8f227b363c75a912014424e821c8d73ebe"
 
   url "https://download.banquish.space/Banquish-#{version}-arm64.dmg"
   name "Banquish"
